@@ -1,0 +1,15 @@
+  ** HOW TO PLAY **
+
+
+1)	The game is a text-based game in which the player is given multiple choices to complete the objective. 
+2)	 This game consists of 5 levels. 
+3)	This game is set in NUST, and each level is based upon some location of NUST. 
+4)	In order to complete the game, the player must have specific items which the player attains after the completion of each level.
+5)	The player is given multiple routes via choices to reach its destination and each route has its own level of complexity.
+6)	There is a time limit in our game, and time is regarded as the number of choices made in our game.
+7)	The Least possible choices to win the game are 25.
+8)	The Most possible choices to win the game are 49.
+9)	While keeping the complexities in mind, the games provides the player a maximum number of 37 choices to win the game.
+10)	There is a confidence meter as well, which will increase or decerase depending upon the choices made by the user.
+11)	The player is given 15 confidence bars as a default, In case the confidence meter runs out, the game ends.
+12)              You have to interact with either pressing 1 or 2.

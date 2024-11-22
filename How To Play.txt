@@ -13,3 +13,5 @@
 10)	There is a confidence meter as well, which will increase or decerase depending upon the choices made by the user.
 11)	The player is given 15 confidence bars as a default, In case the confidence meter runs out, the game ends.
 12)              You have to interact with either pressing 1 or 2.
+
+
